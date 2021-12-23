@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5b8816c3240443A06bF8197F3aFcab5B6De6604E",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5b8816c3240443a06bf8197f3afcab5b6de6604e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CartoonyAxolotl",
+  "SYMBOL": "CA",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cartoonyaxolotl",
+  "SHOW_BACKGROUND": true
+}
